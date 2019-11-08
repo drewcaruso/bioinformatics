@@ -1,2 +1,2 @@
 # bioinformatics
-Helpful one-liners/bash scripts I write and use for NGS processing
+Misc tools created for NGS analysis/daily workflows
